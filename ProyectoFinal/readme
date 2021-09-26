@@ -1,0 +1,20 @@
+Realizado con:
+Spring
+Java
+MySQL
+HTML
+Boostrap
+
+Spring security
+
+Users1: admin
+Password: 123
+Users2: user
+Password: 123
+
+Base de datos.
+Prioridad de admin (CRUD) 
+user (Visualización de la base de datos)
+
+Idiomas:
+EN - ES
